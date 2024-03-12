@@ -14,6 +14,7 @@ Here is the ultimate ranking of pets:
 2. Dogs
 
 [link to my favourite website](https://sudokuexchange.com/play/)
-[link to *stats220* website*](https://namnaan.github.io/stats220/)
+
+[link to *stats220* website](https://namnaan.github.io/stats220/)
 
 My email: <cnam311@aucklanduni.ac.nz>
