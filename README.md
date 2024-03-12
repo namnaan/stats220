@@ -13,8 +13,6 @@ Here is the ultimate ranking of pets:
 1. Cats
 2. Dogs
 
-![average lecture moment]("https://64.media.tumblr.com/5b021e28a74ee22272569bbdbd160dbd/tumblr_inline_pcdhr9hovp1rxiwfe_540.png)
-
 [link to my favourite website]("https://sudokuexchange.com/play/)
 
 My email: <cnam311@aucklanduni.ac.nz>
